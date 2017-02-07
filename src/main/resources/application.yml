@@ -2,8 +2,8 @@ server:
   port: 9093
 
 management:
-	info:
-		git:
-			mode: full
+  info:
+    git:
+      mode: full
 
 creditAgencyServer: http://localhost:9092/
