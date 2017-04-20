@@ -1,3 +1,1 @@
 # cd-demo-scoring
-
-Scoring
